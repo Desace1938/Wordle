@@ -1,0 +1,76 @@
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+    background-color: #121214;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+header {
+    border-bottom: 1px solid #3a3a3b;
+}
+
+
+#title {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+#game {
+    width: 350px;
+    height: 420px;
+    margin: 0 auto;
+    margin-top: 3px;
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.tile {
+    /* boxes */
+    border: 2px solid #3a3a3b;
+    width: 60px;
+    height: 60px;
+    margin:2.5px;
+
+
+    /*text*/
+    color: #ffffff;
+    font-size: 34px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.correct{
+    background-color:#538d4e;
+    color: white;
+    border-color: #538d4e;
+}
+
+.present {
+    background-color: #b59f3b;
+    color: white;
+    border-color: #b59f3b;
+}
+
+.absent {
+    background-color: #3a3a3b;
+    color: white;
+    border-color:#3a3a3b;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
