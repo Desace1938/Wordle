@@ -1,4 +1,5 @@
 # Wordle
+![wordlescreenshot](https://github.com/Desace1938/Wordle/assets/97551971/88c85378-9603-4e7b-90f7-dc4909e626fe)
 
 
 Link to site: https://646be6061a275839feaed72e--glittering-semolina-2e7e12.netlify.app/
