@@ -1,11 +1,11 @@
-var height = 6; //number of guesses
-var width = 5; //length of word
+let height = 6; //number of guesses
+let width = 5; //length of word
 
-var row = 0; //current guess (attempt number)
-var col = 0; // current letter for that attempt
+let row = 0; //current guess (attempt number)
+let col = 0; // current letter for that attempt
 
-var gameOver = false;
-var word = "RAISE";
+let gameOver = false;
+let word = "RAISE";
 
 window.onload = function(){
     intialize();
